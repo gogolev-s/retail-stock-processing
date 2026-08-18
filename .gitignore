@@ -1,0 +1,4 @@
+data/**/*.parquet
+!data/**/sample.*
+!data/**/.gitkeep
+.env
